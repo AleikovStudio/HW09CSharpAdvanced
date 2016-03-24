@@ -1,0 +1,6 @@
+E:\VISUAL-STUDIO\HW8CSharpAdvanced\05SortingNumbers\bin\Debug\05SortingNumbers.exe.config
+E:\VISUAL-STUDIO\HW8CSharpAdvanced\05SortingNumbers\bin\Debug\05SortingNumbers.exe
+E:\VISUAL-STUDIO\HW8CSharpAdvanced\05SortingNumbers\bin\Debug\05SortingNumbers.pdb
+E:\VISUAL-STUDIO\HW8CSharpAdvanced\05SortingNumbers\obj\Debug\05SortingNumbers.csprojResolveAssemblyReference.cache
+E:\VISUAL-STUDIO\HW8CSharpAdvanced\05SortingNumbers\obj\Debug\05SortingNumbers.exe
+E:\VISUAL-STUDIO\HW8CSharpAdvanced\05SortingNumbers\obj\Debug\05SortingNumbers.pdb

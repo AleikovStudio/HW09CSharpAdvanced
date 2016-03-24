@@ -1,0 +1,6 @@
+E:\VISUAL-STUDIO\HW8CSharpAdvanced\06LongestAreaInArray\bin\Debug\06LongestAreaInArray.exe.config
+E:\VISUAL-STUDIO\HW8CSharpAdvanced\06LongestAreaInArray\bin\Debug\06LongestAreaInArray.exe
+E:\VISUAL-STUDIO\HW8CSharpAdvanced\06LongestAreaInArray\bin\Debug\06LongestAreaInArray.pdb
+E:\VISUAL-STUDIO\HW8CSharpAdvanced\06LongestAreaInArray\obj\Debug\06LongestAreaInArray.csprojResolveAssemblyReference.cache
+E:\VISUAL-STUDIO\HW8CSharpAdvanced\06LongestAreaInArray\obj\Debug\06LongestAreaInArray.exe
+E:\VISUAL-STUDIO\HW8CSharpAdvanced\06LongestAreaInArray\obj\Debug\06LongestAreaInArray.pdb
