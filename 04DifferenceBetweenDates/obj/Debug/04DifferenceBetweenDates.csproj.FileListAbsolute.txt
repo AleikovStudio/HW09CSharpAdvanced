@@ -1,0 +1,6 @@
+E:\VISUAL-STUDIO\HW8CSharpAdvanced\04DifferenceBetweenDates\bin\Debug\04DifferenceBetweenDates.exe.config
+E:\VISUAL-STUDIO\HW8CSharpAdvanced\04DifferenceBetweenDates\bin\Debug\04DifferenceBetweenDates.exe
+E:\VISUAL-STUDIO\HW8CSharpAdvanced\04DifferenceBetweenDates\bin\Debug\04DifferenceBetweenDates.pdb
+E:\VISUAL-STUDIO\HW8CSharpAdvanced\04DifferenceBetweenDates\obj\Debug\04DifferenceBetweenDates.csprojResolveAssemblyReference.cache
+E:\VISUAL-STUDIO\HW8CSharpAdvanced\04DifferenceBetweenDates\obj\Debug\04DifferenceBetweenDates.exe
+E:\VISUAL-STUDIO\HW8CSharpAdvanced\04DifferenceBetweenDates\obj\Debug\04DifferenceBetweenDates.pdb
