@@ -1,0 +1,5 @@
+E:\VISUAL-STUDIO\HW8CSharpAdvanced\09RemoveNames\bin\Debug\09RemoveNames.exe.config
+E:\VISUAL-STUDIO\HW8CSharpAdvanced\09RemoveNames\bin\Debug\09RemoveNames.exe
+E:\VISUAL-STUDIO\HW8CSharpAdvanced\09RemoveNames\bin\Debug\09RemoveNames.pdb
+E:\VISUAL-STUDIO\HW8CSharpAdvanced\09RemoveNames\obj\Debug\09RemoveNames.exe
+E:\VISUAL-STUDIO\HW8CSharpAdvanced\09RemoveNames\obj\Debug\09RemoveNames.pdb

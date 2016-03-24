@@ -1,0 +1,6 @@
+E:\VISUAL-STUDIO\HW8CSharpAdvanced\11CountOfLetters\bin\Debug\11CountOfLetters.exe.config
+E:\VISUAL-STUDIO\HW8CSharpAdvanced\11CountOfLetters\bin\Debug\11CountOfLetters.exe
+E:\VISUAL-STUDIO\HW8CSharpAdvanced\11CountOfLetters\bin\Debug\11CountOfLetters.pdb
+E:\VISUAL-STUDIO\HW8CSharpAdvanced\11CountOfLetters\obj\Debug\11CountOfLetters.csprojResolveAssemblyReference.cache
+E:\VISUAL-STUDIO\HW8CSharpAdvanced\11CountOfLetters\obj\Debug\11CountOfLetters.exe
+E:\VISUAL-STUDIO\HW8CSharpAdvanced\11CountOfLetters\obj\Debug\11CountOfLetters.pdb

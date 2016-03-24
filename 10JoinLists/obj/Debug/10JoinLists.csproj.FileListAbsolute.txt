@@ -1,0 +1,6 @@
+E:\VISUAL-STUDIO\HW8CSharpAdvanced\10JoinLists\bin\Debug\10JoinLists.exe.config
+E:\VISUAL-STUDIO\HW8CSharpAdvanced\10JoinLists\bin\Debug\10JoinLists.exe
+E:\VISUAL-STUDIO\HW8CSharpAdvanced\10JoinLists\bin\Debug\10JoinLists.pdb
+E:\VISUAL-STUDIO\HW8CSharpAdvanced\10JoinLists\obj\Debug\10JoinLists.csprojResolveAssemblyReference.cache
+E:\VISUAL-STUDIO\HW8CSharpAdvanced\10JoinLists\obj\Debug\10JoinLists.exe
+E:\VISUAL-STUDIO\HW8CSharpAdvanced\10JoinLists\obj\Debug\10JoinLists.pdb

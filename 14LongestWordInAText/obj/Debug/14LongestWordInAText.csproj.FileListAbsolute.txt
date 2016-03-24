@@ -1,0 +1,5 @@
+E:\VISUAL-STUDIO\HW8CSharpAdvanced\14LongestWordInAText\bin\Debug\14LongestWordInAText.exe.config
+E:\VISUAL-STUDIO\HW8CSharpAdvanced\14LongestWordInAText\bin\Debug\14LongestWordInAText.exe
+E:\VISUAL-STUDIO\HW8CSharpAdvanced\14LongestWordInAText\bin\Debug\14LongestWordInAText.pdb
+E:\VISUAL-STUDIO\HW8CSharpAdvanced\14LongestWordInAText\obj\Debug\14LongestWordInAText.exe
+E:\VISUAL-STUDIO\HW8CSharpAdvanced\14LongestWordInAText\obj\Debug\14LongestWordInAText.pdb
